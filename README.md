@@ -1,2 +1,2 @@
-# portforlio
-lol this is my first portforlio
+# portfolio
+lol this is my first portfolio
